@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyDeviceAttrs">
+        <attr name="icon" format="reference"/>
+        <attr name="state" format="boolean"/>
+        <attr name="name_device" format="string"/>
+        <attr name="count_device" format="string"/>
+        <attr name="color_background" format="reference"/>
+        <attr name="radius" format="float"/>
+    </declare-styleable>
+</resources>
